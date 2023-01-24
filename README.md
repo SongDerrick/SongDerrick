@@ -1,2 +1,2 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/sd990307)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sd990307)](https://solved.ac/sd990307)
