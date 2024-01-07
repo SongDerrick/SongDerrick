@@ -4,9 +4,9 @@
 
 
 ## 👋🏽 Hi there! 
-<p> I am a student developer.</p>
-<p> I am working on backend development and data science. </p>
-<p> I am currently working on problem solving with Python. </p>
+<p> I am a software engineer.</p>
+<p> I am working on frontend & backend web development. </p>
+<p> I am currently working on problem solving with Python and Blockchain technology. </p>
 
 
 
