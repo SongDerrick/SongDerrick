@@ -32,6 +32,11 @@ sd990307@gm.gist.ac.kr
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sd990307)](https://solved.ac/sd990307)
 
+## My Pets
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/SongDerrick"/>
+</a>
+
 
 
 </div>
