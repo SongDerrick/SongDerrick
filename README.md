@@ -1,12 +1,13 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Derrick%20Song&fontSize=90&animation=fadeIn&fontAlignY=40&section=footer&desc=developer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Derrick%20Song&fontSize=90&animation=fadeIn&fontAlignY=40&section=footer&desc=software%20engineer)
 
 
 ## 👋🏽 Hi there! 
-<p> I am a software engineer.</p>
-<p> I am working on frontend & backend web development. </p>
-<p> I am currently working on problem solving with Python and Blockchain technology. </p>
+<table><tr><td>I am a software engineer.</td></tr></table>
+<p> I am working on mostly frontend & backend web development. </p>
+<p> I have huge interest in making things easier and more comfortable. </p>
+<p> I will be working on problem solving with Web3s and Blockchain technology as well!! </p>
 
 
 
@@ -15,17 +16,18 @@
 sd990307@gm.gist.ac.kr
 
 ## 💻 Skill 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
 
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+### Frontend
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
+### Backend
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 
 ## 💡 Problem Solving
