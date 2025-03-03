@@ -1,15 +1,12 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Derrick%20Song&fontSize=90&animation=fadeIn&fontAlignY=40&section=footer&desc=software%20engineer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=Derrick%20Song&fontSize=90&animation=fadeIn&fontAlignY=40&section=footer&desc=product%20engineer)
 
 
 ## 👋🏽 Hi there! 
-<table><tr><td>I am a software engineer.</td></tr></table>
+<table><tr><td>I am a product engineer.</td></tr></table>
 <p> I am working on mostly frontend & backend web development. </p>
 <p> I have huge interest in making things easier and more comfortable. </p>
-<p> I will be working on problem solving with Web3s and Blockchain technology as well!! </p>
-
-
 
 ##  ✉️ Contact
 
